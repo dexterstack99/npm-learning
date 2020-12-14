@@ -1,18 +1,3 @@
-{
-  "name": "dexdev-package-json",
-  "author": "Dexter",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "8.11.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://js-awhttps://js-aw8uxb.stackblitz.io8uxb.stackblitz.io"
-  }
-}
+
+"author": "Dexter",
+ 
